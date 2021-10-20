@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mahmoud-Ashraf98
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning python and it's data analysis libraries
